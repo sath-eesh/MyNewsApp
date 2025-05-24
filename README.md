@@ -39,7 +39,7 @@ cd MyNewsApp
 ### 2. Open in Xcode
 
 ```
-open NewsApp.xcodeproj
+open MyNewsApp.xcodeproj
 ```
 
 ### 3. Build & Run
