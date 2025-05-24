@@ -1,4 +1,4 @@
-# 📰 iOS News App
+# 📰 MyNewsApp
 
 This is an iOS News Application built using **Swift**, **MVVM architecture**, and **Core Data** for offline caching. It fetches news articles from the [NewsAPI.org](https://newsapi.org/) and displays them in a user-friendly list interface.
 
